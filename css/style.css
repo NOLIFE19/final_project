@@ -616,6 +616,11 @@ section{
 .footer .credit span{
     color:var(--main-color);
 }
+.h1-4{
+    color: purple;
+    font-size: 70px;
+    
+}
 
 
 /* რესპონსივი */
@@ -690,3 +695,4 @@ section{
         font-size: 50%;
     }
  }
+ 
